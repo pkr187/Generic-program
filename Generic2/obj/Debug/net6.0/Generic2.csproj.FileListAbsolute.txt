@@ -1,0 +1,15 @@
+C:\hello1\Generic2\bin\Debug\net6.0\Generic2.exe
+C:\hello1\Generic2\bin\Debug\net6.0\Generic2.deps.json
+C:\hello1\Generic2\bin\Debug\net6.0\Generic2.runtimeconfig.json
+C:\hello1\Generic2\bin\Debug\net6.0\Generic2.dll
+C:\hello1\Generic2\bin\Debug\net6.0\Generic2.pdb
+C:\hello1\Generic2\obj\Debug\net6.0\Generic2.csproj.AssemblyReference.cache
+C:\hello1\Generic2\obj\Debug\net6.0\Generic2.GeneratedMSBuildEditorConfig.editorconfig
+C:\hello1\Generic2\obj\Debug\net6.0\Generic2.AssemblyInfoInputs.cache
+C:\hello1\Generic2\obj\Debug\net6.0\Generic2.AssemblyInfo.cs
+C:\hello1\Generic2\obj\Debug\net6.0\Generic2.csproj.CoreCompileInputs.cache
+C:\hello1\Generic2\obj\Debug\net6.0\Generic2.dll
+C:\hello1\Generic2\obj\Debug\net6.0\refint\Generic2.dll
+C:\hello1\Generic2\obj\Debug\net6.0\Generic2.pdb
+C:\hello1\Generic2\obj\Debug\net6.0\Generic2.genruntimeconfig.cache
+C:\hello1\Generic2\obj\Debug\net6.0\ref\Generic2.dll
